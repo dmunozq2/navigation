@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/iconreciente"
+            android:title="Reciente"/>
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/icondestacado"
+            android:title="Destacados"/>
+        <item
+            android:id="@+id/menu_seccion_3"
+            android:icon="@drawable/iconsincon"
+            android:title="Sin conexion"/>
+        <item
+            android:id="@+id/menu_seccion_4"
+            android:icon="@drawable/iconpapelera"
+            android:title="Papelera"/>
+        <item
+            android:id="@+id/menu_seccion_5"
+            android:icon="@drawable/iconnotif"
+            android:title="Notificaciones"/>
+        <item
+            android:id="@+id/menu_seccion_6"
+            android:icon="@drawable/iconconf"
+            android:title="Configuracion"/>
+        <item
+            android:id="@+id/menu_seccion_7"
+            android:icon="@drawable/iconayuda"
+            android:title="Ayuda y comentarios"/>
+    </group>
+
+</menu>
